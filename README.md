@@ -1,15 +1,10 @@
-# Henvenly Forest
-* Họ và tên: Nhữ Trọng Thành
-* Mã Sinh Viên: 22028219
-* Lớp môn học: INT2215_23
-## Mục lục 
-1. Hướng dẫn cài đặt và chạy game
-2. Mô tả chung về trò chơi
-3. Các chức năng của trò chơi
-4. Các kỹ thuật lập trình được sử dụng
-5. Hỗ trợ
-6. Kết luận
-7. Tham khảo
+# Blackout OPS
+* Họ và tên: Nguyễn Mạnh Thắng
+* Mã Sinh Viên: 2021607883
+## Hướng dẫn cài đặt và chạy game 
+Bước 1: Tải project về Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url Cách 2: Tải trực tiếp file Zip về và giải nén
+Bước 2: Cài đặt Visual Studio 2022 Vào google gõ VS Community 2022 và tải về bản mới nhất, cài đặt lên máy tính
+Bước 3: Chạy game Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã tải về
 ## I, Hướng dẫn cài đặt và chạy game
 ### B1: Tải project về
 Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url
